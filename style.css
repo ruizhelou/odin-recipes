@@ -1,0 +1,21 @@
+.homepage {
+    text-align: center;
+    margin: 20px;
+}
+
+.homepage .title {
+    margin: 0px;
+}
+
+.homepage .recipe-list {
+    display: inline-block;
+    text-align: left;
+}
+
+h1, h2, p, li, a {
+    font-family: "Verdana", Sans-serif;
+}
+
+.recipe {
+    margin: 20px;
+}
