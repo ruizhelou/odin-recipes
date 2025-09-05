@@ -1,3 +1,7 @@
+html {
+    background-color: #3d0517;
+}
+
 .homepage {
     text-align: center;
     margin: 20px;
@@ -14,6 +18,14 @@
 
 h1, h2, p, li, a {
     font-family: "Verdana", Sans-serif;
+}
+
+h1, h2, a:visited {
+    color: white;
+}
+
+p, li {
+  color: lightgray;
 }
 
 .recipe {
